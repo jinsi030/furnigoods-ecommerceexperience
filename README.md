@@ -128,7 +128,7 @@ Order Confirmation
 
 ## Prototype
 
-🔗 https://www.figma.com/design/WH2FZY9gDVfAaJvUeu8QCp/FURNIGOODS?m=auto&t=dqqUVQXU9xUX5v2s-6
+🔗 [View Figma Prototype](https://www.figma.com/design/WH2FZY9gDVfAaJvUeu8QCp/FURNIGOODS?m=auto&t=dqqUVQXU9xUX5v2s-6)
 ---
 
 ## Key Learnings
